@@ -34,6 +34,8 @@
 
 - 📭 Email para contato fillipeolipe@gmail.com
 
+- ‼️ Nota importante: Uso esse perfil para efetuar as entregas de trabalho do curso por isso tenha várias linguagens misturadas!
+
 <h2 align="center">Tecnologias em aprendizado!!</h2>
   
 <div align="center">
